@@ -1,21 +1,232 @@
+# 👋 Hi, I'm Shubham Kumar
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/anjin_shub) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shubham-kumar-94643528b/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/shubK6628) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ssbraj8051@gmail.com) 
+### 🚀 CSE Student | AI/ML Learner | Full-Stack Developer
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=shubhamX86&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=shubhamX86&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=shubhamX86&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+I'm a Computer Science & Engineering student passionate about **Artificial Intelligence, Machine Learning, Full-Stack Development, and building practical software projects**.
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=shubhamX86&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=shubhamX86&limit=5&theme=dark&combine_all_yearly_contributions=true)
+I enjoy turning ideas into working applications, learning new technologies, and continuously improving my problem-solving and development skills.
 
 ---
-[![](https://komarev.com/ghpvc/?username=shubhamX86&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🧑‍💻 About Me
+
+* 🎓 Computer Science & Engineering Student
+* 🤖 Currently learning **AI/ML & Deep Learning**
+* 🌐 Building **Full-Stack Web Applications**
+* 🧠 Learning **Data Structures & Algorithms**
+* 🐍 Strong interest in **Python & JavaScript**
+* 💻 Exploring **FastAPI, PyTorch & modern developer tools**
+* 📚 Improving my knowledge of **Computer Science fundamentals**
+* 🚀 Goal: Become a strong **Software + AI Engineer**
+
+---
+
+## ⚡ Tech Stack
+
+### 👨‍💻 Programming Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge\&logo=c\&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+
+### 🌐 Web Development
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
+
+### 🤖 AI / Machine Learning
+
+![Python](https://img.shields.io/badge/Python-ML-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge\&logo=pytorch\&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
+
+### 🗄️ Database & Tools
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
+
+---
+
+# 🚀 Featured Projects
+
+### 🛒 E-Commerce Website
+
+A modern full-stack e-commerce application inspired by platforms like Amazon and Flipkart.
+
+**Tech:** HTML • CSS • JavaScript • Backend • Database
+
+🔗 [View Project](#)
+
+---
+
+### 🌦️ Weather Application
+
+A responsive weather application that fetches real-time weather information using an API.
+
+**Tech:** HTML • CSS • JavaScript • Weather API
+
+🔗 [View Project](#)
+
+---
+
+### 🤖 AI / ML Projects
+
+A collection of machine-learning experiments and practical AI projects covering data preprocessing, EDA, feature engineering, model training and evaluation.
+
+**Tech:** Python • NumPy • Pandas • Scikit-learn • PyTorch
+
+🔗 [View Projects](#)
+
+---
+
+### 🗄️ Library Management System
+
+Database-driven management system designed to handle books, students, borrowing records and database operations.
+
+**Tech:** SQL • MySQL • DBMS
+
+🔗 [View Project](#)
+
+---
+
+# 📚 Currently Learning
+
+```text
+AI / ML
+ ├── Python
+ ├── NumPy
+ ├── Pandas
+ ├── Data Visualization
+ ├── Statistics
+ ├── Machine Learning
+ ├── Feature Engineering
+ ├── Deep Learning
+ └── PyTorch
+
+Full Stack
+ ├── HTML
+ ├── CSS
+ ├── JavaScript
+ ├── APIs
+ ├── FastAPI
+ ├── Databases
+ └── Deployment
+
+Computer Science
+ ├── DSA
+ ├── DBMS
+ ├── Computer Networks
+ ├── Operating Systems
+ ├── Compiler Design
+ └── Computer Graphics
+```
+
+---
+
+# 🧠 My AI/ML Learning Journey
+
+```text
+Python
+   ↓
+NumPy & Pandas
+   ↓
+Data Cleaning
+   ↓
+EDA
+   ↓
+Feature Engineering
+   ↓
+Machine Learning
+   ↓
+Model Evaluation
+   ↓
+Deep Learning
+   ↓
+PyTorch
+   ↓
+AI Applications
+```
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shubhamX86&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamX86&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+</p>
+
+---
+
+# 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=shubhamX86&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+# 🎯 2026 Goals
+
+* [ ] Master Python
+* [ ] Build strong DSA fundamentals
+* [ ] Complete Machine Learning fundamentals
+* [ ] Learn Deep Learning with PyTorch
+* [ ] Build production-ready AI projects
+* [ ] Improve Full-Stack development
+* [ ] Contribute to Open Source
+* [ ] Build a strong GitHub portfolio
+* [ ] Prepare for software/AI engineering interviews
+
+---
+
+# 🌱 Open Source
+
+I'm interested in contributing to projects related to:
+
+* 🤖 Artificial Intelligence
+* 🧠 Machine Learning
+* 🌐 Web Development
+* 🐍 Python
+* 🛠️ Developer Tools
+* 📚 Open Source Education
+
+---
+
+# 📈 Developer Mindset
+
+> **Learn → Build → Break → Debug → Improve → Repeat**
+
+I believe the best way to learn technology is to **build real projects and solve real problems**.
+
+---
+
+# 🤝 Let's Connect
+
+<p align="left">
+
+<a href="https://github.com/shubhamX86">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+**Keep Learning • Keep Building • Keep Growing 🚀**
+
+</p>
