@@ -61,7 +61,7 @@ A modern full-stack e-commerce application inspired by platforms like Amazon and
 
 **Tech:** HTML • CSS • JavaScript • Backend • Database
 
-🔗 [View Project](#)
+🔗 [View Project](https://e-commerce-web-three-rosy.vercel.app/)
 
 ---
 
