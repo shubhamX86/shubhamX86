@@ -71,7 +71,7 @@ A responsive weather application that fetches real-time weather information usin
 
 **Tech:** HTML • CSS • JavaScript • Weather API
 
-🔗 [View Project]
+🔗 [View Project](https://v3weather.vercel.app/)
 
 ---
 
