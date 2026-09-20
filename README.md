@@ -81,7 +81,7 @@ A collection of machine-learning experiments and practical AI projects covering 
 
 **Tech:** Python • NumPy • Pandas • Scikit-learn • PyTorch
 
-🔗 [View Projects](#)
+🔗 [View Projects](https://student-performance86.streamlit.app/)
 
 ---
 
